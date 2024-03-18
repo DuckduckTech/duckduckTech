@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lee</h1>
+<h1 align="center">Hi 👋  I'm Lee</h1>
 <h3 align="center">An aspiring full stack developer from the Netherlands</h3>
 
 - 🔭 I’m currently working on **completing a Javascript and Python Bootcamp**
 
-- 🌱 I’m currently learning **how to build my own projects 👩‍💻**
+- 🌱 I’m currently learning **how to build my own full stack projects 👩‍💻**
 
-- 🤝 I’m looking for **fellow beginner coders on a similar journey to me**
+- 🤝 I’m looking for **fellow junior coders on a similar journey to me**
 
-- ⚡ Fun fact **I love travelling and have live on 3 different continents 🌍**
+- ⚡ Fun fact **I love travelling and have lived on 3 different continents 🌍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
