@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋  I'm Lee</h1>
-<h3 align="center">An aspiring full stack developer from the Netherlands</h3>
+<h3 align="center">A jack of all trades full-stack developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **completing a Javascript and Python Bootcamp**
+- 🔭 I’m currently working on **improving my developing skills and exploring AI 🤖**
 
 - 🌱 I’m currently learning **how to build my own full stack projects 👩‍💻**
 
-- 🤝 I’m looking for **fellow junior coders on a similar journey to me**
+- 🤝 I’m looking for **interesting opportunities and challenges ✨**
 
 - ⚡ Fun fact **I love travelling and have lived on 3 different continents 🌍**
 
